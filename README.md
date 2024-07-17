@@ -1,4 +1,6 @@
-# Swoolnermous Gym WebApp
+# Swolenermous Gym WebApp
+
+A fitness application designed to provide users with exercises to achieve significant muscle growth and development
 
 This repository contains the code for a Gym WebApp built using HTML, CSS, Tailwind CSS, JS and React. The webApp includes coponents as Hero, WorkOut, SectionWrapper, Generator, ExerciseCard and Button.
 
@@ -67,12 +69,12 @@ To get a local copy of the website up and running, follow these steps:
 
 - Open `https://localhost:5173` in your web browser to view the website.
 
-OR
+    OR
 
-- On your terminal tape
+- On your terminal tape:
 
     ```bash
-    o + enter
+    o + enter key
     ```
 
 ## Usage
